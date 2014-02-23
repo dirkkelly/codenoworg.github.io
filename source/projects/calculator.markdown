@@ -122,6 +122,7 @@ If the students finish early, here are a few things that can be done to improve 
 2. Add operations, for example modulo or exponent.
 3. Allow operations to be typed out ('add' would work just like '+') to introduce the "or" in conditionals
 4. If the students are familiar with iteration, make the program repeat until "done" is typed for the operation 
+5. `5 / 7 => 0`, explain what a float is and give them the `to_f` method
 
 ##Full code
 
